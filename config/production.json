@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Remzik",
+  "mongoUri": "mongodb+srv://remzi:1q2w3e4r@cluster0.j48zw.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
